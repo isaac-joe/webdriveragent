@@ -1,0 +1,18 @@
+{
+    "name": "WebDriverAgent",
+    "version": "0.1.0",
+    "description": "a FB WebDriverAgent Package",
+    "author": {
+        "name": "isaac joe",
+        "email": "gabrieworks@gmail.com"
+    },
+    "license": "MIT",
+    "keywords": [
+        "appium",
+        "webdriveragent",
+        "xcuitest",
+        "xctest",
+        "webdriver",
+        "macaca"
+    ]
+}
